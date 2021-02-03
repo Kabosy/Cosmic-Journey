@@ -1,0 +1,8 @@
+
+lancer le fichier executable.jar depuis la source du projet avec la commande suivante :
+
+java -jar executable.jar ./CosmicJourney/ressources/nom_du_fichier_donnees.astro
+
+(NB : remplacer les '/' par des '\' sur windows)
+
+(NB2 : enlever tous les accents dans le fichiers .astro : cela créer des conflits entre windows/linux/mac/

@@ -1,0 +1,1 @@
+Pour ajouter un systeme, déposer votre fichier .txt dans le dossier "ressources"
